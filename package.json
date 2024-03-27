@@ -1,0 +1,14 @@
+{
+  "name": "1_ejercicios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tiempoSecreto.js",
+  "scripts": {
+    "start": "Iniciado"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
